@@ -1,0 +1,4 @@
+{
+  name: "blink.bin",
+  version: "v1.1"
+}
