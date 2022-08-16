@@ -1,4 +1,4 @@
 {
-  name: "blink.bin",
-  version: "v1.1"
+  link: "https://raw.githubusercontent.com/Vanperdung/ota_download/main/blink.bin",
+  version: "v2"
 }
